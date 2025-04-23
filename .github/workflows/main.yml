@@ -25,6 +25,6 @@ jobs:
         pip install -r Requirements.txt
         python -m nltk.downloader stopwords punkt
 
-    - name: Run DevOps Project script
+    - name: Run main script
       run: |
-        python DevOps Project.py
+        python  main.py
