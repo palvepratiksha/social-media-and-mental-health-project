@@ -27,4 +27,8 @@ jobs:
 
     - name: Run main script
       run: |
-        python DevOps Project main.py
+ HEAD
+        python main.py
+
+        python  main.py
+ 854f626e740a238dd98f9c72c2a085943965869b
